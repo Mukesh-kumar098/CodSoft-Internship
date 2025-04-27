@@ -1,2 +1,2 @@
-# CodSoft-Internship
-landing page project
+# CodSoft-Internship landing page project
+
